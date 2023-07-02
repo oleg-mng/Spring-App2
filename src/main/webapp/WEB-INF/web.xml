@@ -3,9 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
-
-  <absolute-ordering/>
+  <display-name>Spring-App2</display-name>
 
   <servlet>
     <servlet-name>dispatcher</servlet-name>
